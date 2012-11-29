@@ -1,1 +1,2 @@
 test1: imac
+test3: win:master‚É’Ç‰Á
