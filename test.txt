@@ -1,4 +1,1 @@
-test1: imac
-test3: win:master�ɒǉ�
-test4: win:master�ɒǉ�2
-test5: win:master�ɒǉ�3
+test1: imactest3: win:masterに追加test4: win:masterに追加2test5: win:masterに追加3
