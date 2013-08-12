@@ -1,4 +1,2 @@
-test1: imac
-test3: win:masterに追加
-test4: win:masterに追加2
-test5: win:masterに追加3
+
+test:master
