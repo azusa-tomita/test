@@ -1,0 +1,3 @@
+[submodule "hoge/hoge"]
+	path = hoge/hoge
+	url = git@github.com:azusa-tomita/chrome-tumblr-tile.git
