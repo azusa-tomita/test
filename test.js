@@ -1,4 +1,4 @@
-g1 = 1;
+global = 1;
 
 
 alert("aaa");
