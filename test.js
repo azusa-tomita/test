@@ -1,4 +1,4 @@
 global = 1;
 
 
-alert("aaa");
+console.log("このテキストは外部から");
